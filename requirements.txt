@@ -1,0 +1,13 @@
+faiss-cpu
+langchain
+langchain_community
+langchain-openai
+langgraph
+python-dotenv
+OpenAI
+langchain_experimental
+pandas
+tabulate
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
